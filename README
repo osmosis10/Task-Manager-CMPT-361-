@@ -11,5 +11,8 @@
 #Final Submission
 
  Runs macD.c and listens for signals of either STAT KILL or both, stat reports the number of active process' and KILL followed by an index to kill specifed process	
+ Flags: i - take the first parameter (file name) and save it to be used for executing process'
+        q = any output from the executed process is suppressed
+        o - writes out all output to text file
 
  execution ex. ./macD macD.conf1 -i
