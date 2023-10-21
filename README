@@ -10,4 +10,6 @@
 
 #Final Submission
 
- Runs macD.c from A3 and listens for signals of either STAT KILL or both, stat reports the number of active process' and KILL followed by an index to kill specifed process	
+ Runs macD.c and listens for signals of either STAT KILL or both, stat reports the number of active process' and KILL followed by an index to kill specifed process	
+
+ execution ex. ./macD macD.conf1 -i
