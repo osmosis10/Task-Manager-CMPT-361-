@@ -1,0 +1,13 @@
+#	Name: Moses Lemma
+#	Date: 2023/04/13
+#	Class: CMPT 360
+#	Instructor: Cam Macdonell
+
+# Assignment 4
+
+# Milestone 1
+  listens and reads data from the UDS and echo's the recieved command (in this case KILL).
+
+#Final Submission
+
+ Runs macD.c from A3 and listens for signals of either STAT KILL or both, stat reports the number of active process' and KILL followed by an index to kill specifed process	

@@ -1,0 +1,5 @@
+timelimit 20
+/var/cam/cmpt360/Cprograms/cpu A
+/var/cam/cmpt360/Cprograms/mem
+/var/cam/cmpt360/Cprograms/cpu B
+badprogram /var/cam/somefile.txt
